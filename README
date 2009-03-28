@@ -1,0 +1,41 @@
+
++---------------------------------------+
+|					|
+|  WELCOME TO MY SMALL-PROJECTS REPO!	|
+|					|
++---------------------------------------+
+
+I'm Victor, and you can get in touch with me via victor DOTT ivri ATT gmail DOTT com.
+
+
++---------------------------------------+
+|	Table of contents 		|
+|					|
+|1) genetic arithmetic			|
+|2) conway's life			|
+|3) waves simulation			|
+|	...				|
++---------------------------------------+
+
+
+
+1) GENETIC ARITHMETIC
++---------------------------------------+
+
+Needs to be extracted and built. Read the README inside the archive. I think it's a pretty cool demonstration of the power of evolutionary search :).
+
+
+NOTE: Both Coway's life and the Waves sim source code are in the 'alife' folder/package.
+
+2) CONWAY'S LIFE
++---------------------------------------+
+
+Needs to be built. A very rudimentary LIFE sim, using very primitive drawing techniques. The startup is always random.
+command line args: x-size y-size, where 'size' is 5 pixels. On older graphic cards, it's not recommended to run over 150x150.
+
+
+
+3) WAVES SIMULATION
++---------------------------------------+
+Needs to be built. An interestingly realistic cellular-automata take on simulating behavior of liquids. Here are the command-line args: x-size y-size random-or-rain, where 'size' is 3 pixels, and the random-or-rain (0 or 1) is a startup configuration, where 0 is random, and 1 simulates rain. Please be patient while the random configuration stabilizes into a nice pattern :). On older graphic cards, it's not recommended to run over 150x150.
+
